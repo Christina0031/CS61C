@@ -1,1 +1,1 @@
-# fa20-lab
+# CS 61C Fall 2020
